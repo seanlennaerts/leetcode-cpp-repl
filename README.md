@@ -2,7 +2,7 @@
 
 Work on LeetCode problems with intellisense and a debugger!
 
-**Similarities**
+**Environment Similarities**
 - Compiled using the latest C++ 17 standard
 - Level one optimization (-O1)
 - [AddressSanitizer](https://github.com/google/sanitizers/wiki/AddressSanitizer) (-fsanitize=address) is enabled to help detect out-of-bounds and use-after-free bugs
