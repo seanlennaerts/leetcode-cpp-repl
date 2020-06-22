@@ -23,7 +23,7 @@ Work on LeetCode problems with intellisense and a debugger!
 ## Use
 1. Code in `solution.h`
 2. Write tests in `test-solution.cpp`
-3. Run or hit <kdb>F5</kdb>
+3. Run or hit <kbd>F5</kbd>
 
 ## Optional Commands
 The following commands are completely optional if you're using VS Code.
