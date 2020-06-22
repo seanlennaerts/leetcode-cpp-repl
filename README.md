@@ -17,11 +17,11 @@ Work on LeetCode problems with intellisense and a debugger!
 ## Prerequisites
 1. VS Code
 2. [C/C++ Extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) installed on WSL side
-3. g++. Check if already installed with `which g++`. If not, `sudo apt-get install build-essential`.
-4. gdb. Check if already installed with `which gdb`. If not, `sudo apt-get install gdb`.
+3. g++. If it's not installed, `sudo apt-get install build-essential`.
+4. gdb. If it's not installed, `sudo apt-get install gdb`.
 
 ## Use
-1. Code in `solution.h`
+1. Write code in `solution.h`
 2. Write tests in `test-solution.cpp`
 3. Run or hit <kbd>F5</kbd>
 
